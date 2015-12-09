@@ -1,0 +1,15 @@
+1. Create a Git hub repository with the name ExploratoryDataAnalysis
+2. Go to git bash and then create a folder ExploratoryDataAnalysis
+3. Place all the script files and image files in that folder
+4. run the following commands in git bash
+a. git init
+b. git remote add origin https://github.com/NaveenSilvester/ExData_Plotting1.git
+c. git remote -v
+d. git pull https://github.com/NaveenSilvester/ExData_Plotting1.git
+e. Place all your scripts and images in the folder (local directory)
+f. git add .
+g. git commit -m "FirstCommit"
+h. git push origin master
+i. The files in the local git repository will get loaded on to github.
+j. Copy the url and submit 
+
